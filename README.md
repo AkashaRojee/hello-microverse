@@ -4,7 +4,7 @@
 
 > Set up a "Hello Microverse" project
 
-![screenshot](./app_screenshot.png)
+![screenshot](./hello-microverse.png)
 
 This project serves as an introduction to tools and best practices to be used in Microverse projects.
 
