@@ -31,21 +31,43 @@ To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
+- Node.js and npm
+- Lighthouse
+- Webhint
+- Stylelint
+
 ### Setup
+
+- Work on feature branch
+- Add .gitignore
+- Add config files for linters
+- Add HTML and CSS files
 
 ### Install
 
+- Install Node Version Manager
+- Install Node.js
+- Install linters: Lighthouse, Webhint, Stylelint
+
 ### Usage
 
+To run Lighthouse audit: lighthouse <url>
+
+To run Webhint: npx hint .
+
+To run Stylehint: npx stylelint "**/*.{css,scss}"
+
 ### Deployment
+
+Open pull request according to Microverse guidelines.
 
 ## Authors
 
 👤 **Akasha Rojee**
 
-- GitHub: [@githubhandle](https://github.com/AkashaRojee)
-- Twitter: [@twitterhandle](https://twitter.com/AkashaRojee)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/AkashaRojee)
+- GitHub: [@AkashaRojee](https://github.com/AkashaRojee)
+- Twitter: [@AkashaRojee](https://twitter.com/AkashaRojee)
+- LinkedIn: [Akasha Rojee](https://linkedin.com/in/AkashaRojee)
 
 ## 🤝 Contributing
 
