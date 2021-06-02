@@ -51,7 +51,7 @@ To get a local copy up and running follow these simple example steps.
 
 ### Usage
 
-To run Lighthouse audit: lighthouse <url>
+To run Lighthouse audit: lighthouse URL
 
 To run Webhint: npx hint .
 
