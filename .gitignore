@@ -1,5 +1,2 @@
-# .gitignore
-node_modules/
-
 #Untrack test.md
 test.md
